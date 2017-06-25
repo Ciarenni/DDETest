@@ -1,0 +1,25 @@
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\bin\Debug\DDETest.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\bin\Debug\DDETest.pdb
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\bin\Debug\NDde.dll
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\bin\Debug\NDde.xml
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\DDETest.Properties.Resources.resources
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\DDETest.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\DDETest\obj\x86\Debug\DDETest.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\DDETest.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\DDETest.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\NDde.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\NDde.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.DDETest.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Debug\SpaceHardwareClubLibrary.pdb
+D:\lifeboat from laptop\VS2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.exe
+D:\lifeboat from laptop\VS2010\Projects\DDETest\DDETest\obj\x86\Debug\DDETest.pdb

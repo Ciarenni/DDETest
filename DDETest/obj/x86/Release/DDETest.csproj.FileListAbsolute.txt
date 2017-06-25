@@ -1,0 +1,13 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\DDETest.DDETest.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\DDETest.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\DDETest.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\DDETest.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\NDde.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\NDde.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\DDETest.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\obj\x86\Release\DDETest.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\documents\visual studio 2010\Projects\DDETest\DDETest\bin\Release\SpaceHardwareClubLibrary.pdb
